@@ -1,0 +1,22 @@
+{
+  "name": "adiology",
+  "version": "1.0.0",
+  "description": "Adiology - A modern web application for audio analysis and study",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your web browser to view the application'"
+  },
+  "keywords": [
+    "audio",
+    "analysis",
+    "web-app",
+    "adiology"
+  ],
+  "author": "Adiology Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samayhuf-star/Adiology-V-1.git"
+  },
+  "homepage": "https://github.com/samayhuf-star/Adiology-V-1#readme"
+}
